@@ -1,3 +1,7 @@
 groq
 pybase64
 python-dotenv
+ffmpeg
+pyaudio
+SpeechRecognition
+pozalabs-pydub
