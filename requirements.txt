@@ -5,3 +5,7 @@ ffmpeg
 pyaudio
 SpeechRecognition
 pozalabs-pydub
+elevenlabs
+gTTS
+subprocess
+platform

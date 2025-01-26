@@ -1,6 +1,6 @@
 #setup audio recorder
 import logging
-import spech_recognition as sr
+import speech_recognition as sr
 from pydub import AudioSegment
 from io import BytesIO
 
